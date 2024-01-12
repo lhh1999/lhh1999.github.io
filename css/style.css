@@ -1151,6 +1151,10 @@ ul li.task-list-item>input[type=checkbox]:before {
   -webkit-mask-image: url("../icon/close-btn.svg");
   mask-image: url("../icon/close-btn.svg");
 }
+.h-line-divider {
+  background-color: #373633;
+  height: 2px;
+}
 .h-line-primary {
   background-color: #373633;
   height: 1px;

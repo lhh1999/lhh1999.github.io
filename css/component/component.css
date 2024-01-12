@@ -1,3 +1,7 @@
+.h-line-divider {
+  background-color: $color-text-primary;
+  height: $line-secondary;
+}
 .h-line-primary {
   background-color: $color-text-primary;
   height: $line-third;
